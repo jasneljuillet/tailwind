@@ -1,0 +1,2 @@
+npm uninstall tailwindcss postcss autoprefixer
+npm install tailwindcss@latest postcss@latest autoprefixer@latest
